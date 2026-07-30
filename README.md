@@ -1,13 +1,9 @@
-#Training Set:
-X_train = 9,535 images
-y_train = 9,535 labels
+# Concrete Crack Detection Module - Group CO3
 
-Validation Set:
-X_val = 2,043 images
-y_val = 2,043 labels
 
-Test Set:
-X_test = 2,044 images
-y_test = 2,044 labels
- CPE324-GROUPCO3-Concrete-Bridge-Deck-Crack-Detection-Cracked-vs-Non-Cracked-
-A Model Built to Detect Cracks in Concrete Images of bridges
+This is a machine learning application designed to automatically inspect concrete structures. By analyzing close-up images of concrete surfaces, the module can accurately determine if the concrete has visible structural cracks or if it is clean and undamaged.
+
+##  Dataset Used
+To train the module, we used the **[Surface Crack Detection](https://www.kaggle.com/datasets/arunrk7/surface-crack-detection)** dataset. This dataset consists of high-resolution, closely cropped images of real concrete textures, categorized into two distinct classes:
+*   **Cracked (Positive):** Images showing distinct fractures and lines in the concrete.
+*   **Clean (Negative):** Images of smooth, unblemished concrete surfaces.
