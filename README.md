@@ -20,6 +20,7 @@ To train the module, we used the **[Surface Crack Detection](https://www.kaggle.
 | OLADELE, OLUWATEMIDARA DAVID | 22/EG/CO/1771 | 
 | STEPHEN DAVID ETOROABASI | 22/EG/CO/1731 |
 | EDET, UNWANA MICHAEL | 22/EG/CO/1711 |
+| NYONG,EMMANUEL IMOH | 22/EG/CO/1801 |
 
 *   **ROLES:**
 
@@ -35,7 +36,7 @@ Nathans Chidera Daniella - Model evaluation
 iv. Nathans Chidera Daniella - Application development
 v. Divine Innocent Udoka - Cloud deployment
 vi. Akaninyene Akpabio &
-Emmanuel Imoh - Documentation and report writing
+Nyong Emmanuel Imoh - Documentation and report writing
 
 *   **Project Details:**
 
