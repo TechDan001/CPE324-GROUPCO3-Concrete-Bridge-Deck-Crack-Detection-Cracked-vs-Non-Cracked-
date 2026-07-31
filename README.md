@@ -19,18 +19,18 @@ OLADELE, OLUWATEMIDARA DAVID - 22/EG/CO/1771
 STEPHEN DAVID ETOROABASI - 22/EG/CO/1731
 *   **ROLES:**
 
-i. OKPATA DANIEL LAZ
+i. OKPATA DANIEL LAZ &
 JOE-UNDIE Godfrey Adambe - Dataset preparation and preprocessing
 
-ii. Edet, Unwana Michael
+ii. Edet, Unwana Michael &
 Nathans Chidera Daniella - Model development and training
 
-iii. Edet, Unwana Michael
+iii. Edet, Unwana Michael &
 Nathans Chidera Daniella - Model evaluation
 
 iv. Nathans Chidera Daniella - Application development
 v. Divine Innocent Udoka - Cloud deployment
-vi. Akaninyene Akpabio
+vi. Akaninyene Akpabio &
 Emmanuel Imoh - Documentation and report writing
 
 *   **Project Details:**
