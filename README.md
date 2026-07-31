@@ -49,3 +49,36 @@ The app is an image-classification machine-learning system. Its main job is to r
 The core logic is:
 
 Concrete image → image preprocessing → trained model → prediction probabilities → final result
+# CPE 324: Concrete Bridge Deck Crack Detection (Cracked vs. Non-Cracked)
+
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![Framework](https://img.shields.io/badge/Framework-TensorFlow%20%2F%20PyTorch-orange)
+![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-green)
+![Course](https://img.shields.io/badge/Course-CPE%20324-lightgrey)
+
+**Group:** Group C03  
+**Department:** Computer Engineering  
+
+---
+
+## 📌 Project Overview
+Automated structural health monitoring is vital for civil infrastructure maintenance. Manual inspection of concrete bridge decks is time-consuming, subjective, and hazardous. 
+
+This project develops a deep learning image classification model to automatically identify surface cracks on concrete bridge decks, classifying images into two distinct classes:
+- **Cracked**
+- **Non-Cracked (Uncracked)**
+
+---
+
+## 📁 Repository Structure
+```text
+├── data/                  # Instructions or scripts for dataset download
+├── notebooks/             # Jupyter notebooks for EDA and model training
+├── src/                   # Python modules (preprocessing, model, train, evaluate)
+│   ├── preprocess.py
+│   ├── model.py
+│   ├── train.py
+│   └── predict.py
+├── saved_models/          # Trained weights (.h5, .keras, or .pt)
+├── requirements.txt       # Project dependencies
+└── README.md              # Project documentation
