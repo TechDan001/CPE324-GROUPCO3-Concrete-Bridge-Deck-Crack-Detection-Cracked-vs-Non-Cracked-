@@ -8,15 +8,19 @@ To train the module, we used the **[Surface Crack Detection](https://www.kaggle.
 *   **Cracked (Positive):** Images showing distinct fractures and lines in the concrete.
 *   **Clean (Negative):** Images of smooth, unblemished concrete surfaces.
 
-___
+---
 
-*   **participants:**
+**Participants:**
+  
+| Name | Reg. No. |
+|---|---|
+| OKPATA, DANIE LAZ | 22/EG/CO/1741 |
+| AKPABIO, AKANINYENE ANIEKAN | 22/EG/CO/1811 |
+| NATHANS CHIDERA DANIELLA | 22/EG/CO/1631 |
+| OLADELE, OLUWATEMIDARA DAVID | 22/EG/CO/1771 | 
+| STEPHEN DAVID ETOROABASI | 22/EG/CO/1731 |
+| EDET, UNWANA MICHAEL | 22/EG/CO/1711 |
 
-OKPATA, DANIE LAZ - 22/EG/CO/1741
-AKPABIO, AKANINYENE - ANIEKAN	22/EG/CO/1811
-NATHANS CHIDERA DANIELLA - 22/EG/CO/1631
-OLADELE, OLUWATEMIDARA DAVID - 22/EG/CO/1771	
-STEPHEN DAVID ETOROABASI - 22/EG/CO/1731
 *   **ROLES:**
 
 i. OKPATA DANIEL LAZ &
