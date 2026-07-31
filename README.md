@@ -21,6 +21,7 @@ To train the module, we used the **[Surface Crack Detection](https://www.kaggle.
 | STEPHEN DAVID ETOROABASI | 22/EG/CO/1731 |
 | EDET, UNWANA MICHAEL | 22/EG/CO/1711 |
 | NYONG,EMMANUEL IMOH | 22/EG/CO/1801 |
+| Omale EmmanuelMary Omale | 22/EG/CO/1661 |
 
 *   **ROLES:**
 
