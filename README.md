@@ -23,6 +23,7 @@ To train the module, we used the **[Surface Crack Detection](https://www.kaggle.
 | NYONG,EMMANUEL IMOH | 22/EG/CO/1801 |
 | Omale EmmanuelMary Omale | 22/EG/CO/1661 |
 |Ekott, Anietie Aniedi|22/EG/CO/1761|
+|JOE-UNDIE, GODFREY ADAMBE |22/EG/CO/1791 |
 
 *   **ROLES:**
 
