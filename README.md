@@ -15,14 +15,15 @@ To train the module, we used the **[Surface Crack Detection](https://www.kaggle.
 | Name | Reg. No. |
 |---|---|
 | OKPATA, DANIE LAZ | 22/EG/CO/1741 |
+| JOE-UNDIE GODFREY ADAMBE | 22/EG/CO/1791 |
 | AKPABIO, AKANINYENE ANIEKAN | 22/EG/CO/1811 |
 | NATHANS CHIDERA DANIELLA | 22/EG/CO/1631 |
 | OLADELE, OLUWATEMIDARA DAVID | 22/EG/CO/1771 | 
-| STEPHEN DAVID ETOROABASI | 22/EG/CO/1731|
+| STEPHEN DAVID ETOROABASI | 22/EG/CO/1731 |
 | EDET, UNWANA MICHAEL | 22/EG/CO/1711 |
 | NYONG,EMMANUEL IMOH | 22/EG/CO/1801 |
 | Omale EmmanuelMary Omale | 22/EG/CO/1661 |
-|Ekott, Anietie Aniedi|22/EG/CO/1761|
+| Ekott, Anietie Aniedi | 22/EG/CO/1761 |
 
 *   **ROLES:**
 
@@ -36,7 +37,9 @@ iii. Edet, Unwana Michael &
 Nathans Chidera Daniella - Model evaluation
 
 iv. Nathans Chidera Daniella - Application development
+
 v. Divine Innocent Udoka - Cloud deployment
+
 vi. Akaninyene Akpabio &
 Nyong Emmanuel Imoh - Documentation and report writing
 
