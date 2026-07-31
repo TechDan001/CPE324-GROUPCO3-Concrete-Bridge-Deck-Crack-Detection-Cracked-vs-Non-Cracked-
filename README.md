@@ -38,7 +38,7 @@ Nathans Chidera Daniella - Model evaluation
 
 iv. Nathans Chidera Daniella - Application development
 
-v. Divine Innocent Udoka - Cloud deployment
+v. Divine Innocent Udoka & Anietie Aniedi Ekott- Cloud deployment
 
 vi. Akaninyene Akpabio &
 Nyong Emmanuel Imoh - Documentation and report writing
