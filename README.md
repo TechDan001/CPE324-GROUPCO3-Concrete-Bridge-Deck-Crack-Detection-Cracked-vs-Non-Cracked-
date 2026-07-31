@@ -10,14 +10,14 @@ To train the module, we used the **[Surface Crack Detection](https://www.kaggle.
 
 ___
 
-participants:
+*   **participants:**
 
 OKPATA, DANIE LAZ - 22/EG/CO/1741
 AKPABIO, AKANINYENE - ANIEKAN	22/EG/CO/1811
 NATHANS CHIDERA DANIELLA - 22/EG/CO/1631
 OLADELE, OLUWATEMIDARA DAVID - 22/EG/CO/1771	
-
-ROLES: 
+STEPHEN DAVID ETOROABASI - 22/EG/CO/1731
+*   **ROLES:**
 
 i. OKPATA DANIEL LAZ
 JOE-UNDIE Godfrey Adambe - Dataset preparation and preprocessing
@@ -32,6 +32,8 @@ iv. Nathans Chidera Daniella - Application development
 v. Divine Innocent Udoka - Cloud deployment
 vi. Akaninyene Akpabio
 Emmanuel Imoh - Documentation and report writing
+
+*   **Project Details:**
 
 The app is an image-classification machine-learning system. Its main job is to receive a close-up image of concrete and classify it into one of two categories:
 
